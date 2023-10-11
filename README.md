@@ -1,5 +1,5 @@
 # thredds-data-server-config
-Code related to configuring the thredds data server
+Code related to configuring the thredds data server (crocus-server-03.cels.anl.gov)
 
 ## How to Add New Datastreams
 Once you have your netCDF datasets ready to publish, go to the `/data/home/thredds/catalog.xml` file, and add a new entry following the xml format:
